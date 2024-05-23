@@ -7,7 +7,7 @@ public class OddSum {
         System.out.print("Enter any number: ");
         int num=input.nextInt();
         int sum=Oddsum(num);
-        System.err.println("Odd Sum till " +num+ " is:" +sum);
+        System.out.println("Odd Sum till " +num+ " is:" +sum);
 
 
     }
